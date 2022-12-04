@@ -1,2 +1,0 @@
-snorlax,Abc123
-caterpie,Xyz123
