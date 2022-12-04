@@ -1,4 +1,4 @@
-# School System
+# SUMMARY
 This is a project I did for my school, which is some simple school systems
 Part 1 is a registration system, which allows users to check the enrollment for each course
 Part 2 is a quizzing system, which allows users to get quiz information, check their quiz score and get score reports for class
